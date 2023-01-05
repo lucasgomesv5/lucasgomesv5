@@ -1,7 +1,7 @@
 ### Hello World 👋 I`m Lucas Gomes
 
 - 👨‍💻 I’m currently working as front-end developer, mainly with mobile applications in React Native at RBM WEB by DIMENSA.
-- 📚 I'm always trying to improve my programming logic and my skills in JavaScript, TypeScript, React and Redux. And at this moment I'm learning more about Vuejs and Tailwind CSS too.
+- 📚 I'm always trying to improve my programming logic and my skills in JavaScript, TypeScript and React. And at this moment I'm learning more about Node.js and Solidity.
 - 📧 How to contact me: lucasgv5dev@gmail.com || (32)987060406 
 
 <div align="center">
