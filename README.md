@@ -1,6 +1,6 @@
 ### Hello World 👋 I`m Lucas Gomes
 
-- 👨‍💻 I’m currently working as front-end developer, mainly with mobile applications in React Native at RBM WEB by DIMENSA.
+- 👨‍💻 I’m currently working as front-end developer on Finne Tech.
 - 📚 I'm always trying to improve my programming skills and learn new things. 
 - 📧 How to contact me: lucasgv5dev@gmail.com || (32)987060406 
 
