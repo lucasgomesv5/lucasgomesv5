@@ -1,8 +1,6 @@
-### Hello World 👋 I`m Lucas Gomes
+### Hello World 👋 I`m Lucas
 
 - 👨‍💻 I’m currently working as front-end developer on Finne Tech.
-- 📚 I'm always trying to improve my programming skills and learn new things. 
-- 📧 How to contact me: lucasgv5dev@gmail.com || (32)987060406 
 
 <div align="center">
   <a href="https://github.com/lucasgomesv5">
