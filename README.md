@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas!
 
-<img align="right" alt="GIF" height="160px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdvZDV6OHcxM2VmNHA2OGVndnQwNnp5eDZmcnM4azUxcWU2NDg1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z29zczhmcHhkN3MyY3Fpb3JmcDVjaTJ6Zm5peXZnMmYxb2h2eXFyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
 
 ## Full Stack Developer focused on Frontend Excellence
 
