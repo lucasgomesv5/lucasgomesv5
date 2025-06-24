@@ -1,7 +1,5 @@
 # Hi there, I'm Lucas!
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z29zczhmcHhkN3MyY3Fpb3JmcDVjaTJ6Zm5peXZnMmYxb2h2eXFyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
-
 ## Full Stack Developer focused on Frontend Excellence
 
 - 🎯 Specialized in building modern, responsive, and high-performance UIs with React, Next.js, Vue.js, TypeScript, TailwindCSS, SassCss and Styled Components.
