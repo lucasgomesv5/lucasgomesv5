@@ -1,8 +1,8 @@
 
-# Lucas Gomes Vieira
+# Lucas
 
 **Software Engineer**
 
 I like to code ideas.  
 
-building ****.
+building...
